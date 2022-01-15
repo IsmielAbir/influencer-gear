@@ -97,3 +97,8 @@ section {
     color: white;
     text-align: center;
 }
+
+.head {
+    text-align: center;
+    font-size: 3em;
+}
