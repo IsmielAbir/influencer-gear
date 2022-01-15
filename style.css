@@ -110,8 +110,22 @@ section {
     .items {
         grid-template-columns: repeat(1, 1fr);
     }
+    .half {
+        display: block;
+        width: 100%;
+        padding-bottom: 100px;
+    }
     section {
-        grid-template-columns: repeat(1, 1fr);
+        display: block;
+    }
+    nav ul {
+        display: block;
+    }
+    nav ul li {
+        display: block;
+    }
+    nav {
+        display: block;
     }
 }
 
