@@ -61,3 +61,24 @@ section {
 .logo img {
     padding: 5px 35px;
 }
+
+
+/*container*/
+
+.item .fram img {
+    width: 300px;
+    height: 256px;
+}
+
+.rate {
+    display: flex;
+    align-items: center;
+}
+
+.fa-star.fill {
+    color: #FB8200;
+}
+
+.fa-star.empty {
+    color: rgba(218, 144, 34, 0.514);
+}
